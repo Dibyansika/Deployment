@@ -1,0 +1,17 @@
+efficientnet_pytorch==0.7.1
+fastai==2.7.12
+matplotlib==3.4.3
+numpy>=1.17
+opencv-python-headless
+Pillow==10.0.0
+qiskit==0.44.0
+qiskit_ibm_runtime==0.11.2
+qiskit_ibmq_provider==0.20.2
+qiskit_terra==0.25.0
+scikit-learn==0.24.2
+scipy==1.7.1
+streamlit==1.15.2
+tensorflow==2.13.0
+tensorflow_intel==0.0.1
+torch==2.0.1
+torchvision==0.15.2
